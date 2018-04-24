@@ -2,6 +2,7 @@
 
 Create Database:
  $ createdb --locale=C.UTF-8 --owner=rastree -W rastree-ws
+ $ psql -d rastree-ws < tables.sql
 
 */
 
