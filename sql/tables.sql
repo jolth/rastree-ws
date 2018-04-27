@@ -1,5 +1,5 @@
 --
--- Author: Jorge Toro (jolth) <jorge.toro@devmicrosystem.com>
+-- Copyright 2013 (c) by Jorge A. Toro <jolthgs@gmail.com> <jorge.toro@devmicrosystem.com>
 --
 -- Create Database:
 --  $ createdb --locale=C.UTF-8 --owner=rastree -W rastree-ws
